@@ -1,6 +1,6 @@
 # Baselines for Chest x-ray Landmark Segmentation Dataset.
 
-Baselines are taken from our latest work, and trained under both lung and Heart segmentation, and only lungs segmentation.\
+Baselines are taken from our latest work and trained under both lungs and heart segmentation and only lungs segmentation.\
 Results are available on Jupyter notebooks, train and test subsets are provided on .txt files and training scripts are available.
 
 ## Citation
