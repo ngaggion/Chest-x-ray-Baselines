@@ -1,6 +1,8 @@
 # Baselines for Chest x-ray Landmark Segmentation Dataset.
 
-Baselines are taken from our latest work and trained under both lungs and heart segmentation and only lungs segmentation.\
+Baselines are taken from [our latest work](https://arxiv.org/abs/2203.10977) and trained under both lungs and heart segmentation and only lungs segmentation.\
+By default we refer as HybridGNet the best performing variation presented on the paper, with 2 Image-To-Graph Skip Connection (IGSC) layers.
+
 Results are available on Jupyter notebooks, train and test subsets are provided on .txt files and training scripts are available.
 
 ## Citation
